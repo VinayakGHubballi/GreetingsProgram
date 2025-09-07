@@ -1,1 +1,5 @@
-print("2nd file of Python program is modified: Modified in Master branch")
+
+print("2nd file of Python program is modified: Modified in Master branch and Stable branch")
+
+
+
