@@ -1,1 +1,1 @@
-print("Modified the Hello Python from Local: modified the code from master branch")
+print("Modified the Hello Python from Local")
